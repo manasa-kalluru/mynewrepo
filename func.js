@@ -1,3 +1,3 @@
-function double[num]{
+function double(num){
 return num *2;
 }
